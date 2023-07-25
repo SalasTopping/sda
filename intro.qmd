@@ -11,7 +11,11 @@ z = 14
 
 ans <- x+y+z
 
+tr <- 78+90
+
 ```
 
 The answer is `r ans`.
+
+the othe answer is `r tr`
 Please work or else
