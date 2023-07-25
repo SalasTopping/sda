@@ -5,7 +5,12 @@ This is a book created from markdown and executable code.
 See @knuth84 for additional discussion of literate programming.
 
 ```{r}
-1 + 1
+x = 1 + 1
+y = 650
+z = 14
+
+x+y+z
+
 ```
 
-Please work
+Please work or else
